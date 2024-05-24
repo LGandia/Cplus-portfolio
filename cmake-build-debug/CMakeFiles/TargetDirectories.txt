@@ -1,0 +1,3 @@
+C:/Users/impos/CLionProjects/Cplus-portfolio/cmake-build-debug/CMakeFiles/Cplus_portfolio.dir
+C:/Users/impos/CLionProjects/Cplus-portfolio/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/impos/CLionProjects/Cplus-portfolio/cmake-build-debug/CMakeFiles/rebuild_cache.dir

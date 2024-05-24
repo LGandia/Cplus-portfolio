@@ -1,0 +1,10 @@
+# ninja log v5
+4	241	7382516031450933	build.ninja	204ffb990b80086f
+1	266	7382516034313685	CMakeFiles/Cplus_portfolio.dir/snake.cpp.obj	a23e58b25f0b9d8b
+268	363	7382516035239028	Cplus_portfolio.exe	f294472051464bf1
+4	244	7382516633824294	CMakeFiles/Cplus_portfolio.dir/snake.cpp.obj	a23e58b25f0b9d8b
+244	333	7382516634680864	Cplus_portfolio.exe	f294472051464bf1
+4	257	7382516823345318	CMakeFiles/Cplus_portfolio.dir/snake.cpp.obj	a23e58b25f0b9d8b
+257	348	7382516824221973	Cplus_portfolio.exe	f294472051464bf1
+4	245	7382517149267819	CMakeFiles/Cplus_portfolio.dir/snake.cpp.obj	a23e58b25f0b9d8b
+245	333	7382517150109347	Cplus_portfolio.exe	f294472051464bf1
